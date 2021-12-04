@@ -1,0 +1,53 @@
+{
+    "name": "Scoring Token List",
+    "pairs": [
+        {
+            "label": "Metis/USDT",
+            "token0": "Metis",
+            "token1": "USDT",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 10
+        },
+        {
+            "label": "Metis/USDC",
+            "token0": "Metis",
+            "token1": "USDC",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 10
+        },
+        {
+            "label": "Metis/WOW",
+            "token0": "Metis",
+            "token1": "WOW",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
+            "coefficient": 8
+        },
+        {
+            "label": "WOW/USDT",
+            "token0": "WOW",
+            "token1": "USDT",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 5
+        },
+        {
+            "label": "WOW/USDC",
+            "token0": "WOW",
+            "token1": "USDC",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 5
+        },
+        {
+            "label": "USDT/USDC",
+            "token0": "USDT",
+            "token1": "USDC",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 2
+        }
+    ]
+}
